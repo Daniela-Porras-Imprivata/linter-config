@@ -7,4 +7,7 @@ linters:
 
   enable-all: true
 
-    
+
+issues:
+  exclude:
+    - "ST1000: at least one file in a package should have a package comment"
