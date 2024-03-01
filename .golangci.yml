@@ -1,0 +1,10 @@
+run:
+
+  skip-dirs:
+    - src/external-libs
+
+linters:
+
+  enable-all: true
+
+    
