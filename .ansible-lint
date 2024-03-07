@@ -1,2 +1,3 @@
 exclude_paths:
     - ./role-openstack/molecule/
+    - role-openstack/meta/
